@@ -6,4 +6,31 @@
 
 body{
   background-color: lightgreen;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+/* ELEMENTS */
+
+.container{
+  padding: 20px 20px;
+  width: 50%;
+  margin: auto;
+}
+
+.wrapper{
+  background-color: #F6E8B1;
+  padding: 20px 40px;
+}
+
+li{
+  padding: 10px 0;
+  font-size: 24px;
+}
+
+/* STRUCTURE */
+
+header{
+  padding: 30px;
+  text-align: center;
+  color: green;
 }
